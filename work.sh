@@ -1,3 +1,3 @@
 #! /bin/bash
 
-echo "script in project 2 work!"
+echo "script in project 1 work!"
